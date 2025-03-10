@@ -37,7 +37,7 @@ useful when switching branches without committing unfinished work
 ***Git reset to undo changes:***
 - git reset example.txt (remove a file from the staging area)
 - git reset --hard (resets working directory and staging area to match the most recent commit. This means any changes, whether staged or not, will be lost)
-- git reset --hard HEAD~1 ('HEAD~1' referes to move one commit backwards current commit (HEAD))
+- git reset --hard HEAD~1 (**HEAD~1** referes to move one commit backwards current commit (HEAD))
 - git clean -n (remove untracked files from your working directory)
 - git clean -f
 
