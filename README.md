@@ -1,5 +1,6 @@
 # lab-git-flow
 
+**Git Cmds Cheatsheet**
 - git --version
 - git config --global user.name "Your Name"
 - git config --global user.email "youremail@example.com"
@@ -27,3 +28,7 @@ useful when switching branches without committing unfinished work
 - git stash
 - git stash list
 - git stash apply
+
+********************************************
+git log
+git show [commit-hash]
